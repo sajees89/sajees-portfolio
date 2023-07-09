@@ -9,7 +9,7 @@ const Technologies = () =>  (
     <br />
     <SectionTitle>Technologies</SectionTitle>
     <SectionText>
-      I've worked with a wide range of technologies in both the front-end and back-end. 
+        With experience in both front-end and back-end development, I am fluent in a variety of programming languages and frameworks.
     </SectionText>
     <List>
       <ListItem>

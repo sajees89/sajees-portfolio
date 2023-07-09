@@ -14,7 +14,7 @@ const Hero = () => (
       <SectionText>
       Full-Stack Web Developer with a strong desire to learn, build new things and stay up-to-date with the latest technologies. With a strong foundation in both front-end and back-end development, with a variety of programming languages and frameworks. 
       </SectionText>
-      <Button onClick={() => window.location = 'https://google.com'}>Learn More</Button>
+      <Button onClick={() => window.location = 'https://github.com/sajees89'}>Learn More</Button>
     </LeftSection>
   </Section>
 );
